@@ -14,6 +14,7 @@
 2. 执行以下命令，将构建好的 Bazel 二进制文件移动到指定目录：
 
    ```bash
+   mkdir -p ~/local/bazel
    mv ../bazel-6.5.0-riscv64/* ~/local/bazel
    ```
 
